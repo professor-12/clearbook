@@ -1,0 +1,542 @@
+[
+ {
+  "narration": "NIP TRF FROM ADEBAYO OLUWASEUN T/ACCESS/rent contrib AUG",
+  "category": "transfer_from_person",
+  "chargeType": null
+ },
+ {
+  "narration": "ELECTRONIC MONEY TRANSFER LEVY",
+  "category": "bank_charges",
+  "chargeType": "emtl"
+ },
+ {
+  "narration": "IKEDC PREPAID TOKEN MTR 04512345",
+  "category": "bills_utilities",
+  "chargeType": null
+ },
+ {
+  "narration": "MTN VTU AIRTIME 08031234567",
+  "category": "airtime_data",
+  "chargeType": null
+ },
+ {
+  "narration": "NIP TRANSFER TO BAKARE FOLASADE/ZENITH/upkeep mummy",
+  "category": "transfer_to_person",
+  "chargeType": null
+ },
+ {
+  "narration": "COMMISSION ON NIP TRANSFER",
+  "category": "bank_charges",
+  "chargeType": "transfer_fee"
+ },
+ {
+  "narration": "VAT ON NIP TRANSFER COMMISSION",
+  "category": "bank_charges",
+  "chargeType": "vat"
+ },
+ {
+  "narration": "POS PURCHASE @ SHOPRITE LEKKI LA LANG",
+  "category": "groceries_shopping",
+  "chargeType": null
+ },
+ {
+  "narration": "BOLT.EU/O/2608 RIDE LAGOS",
+  "category": "transport",
+  "chargeType": null
+ },
+ {
+  "narration": "RCCG TITHE/FLUTTERWAVE",
+  "category": "giving",
+  "chargeType": null
+ },
+ {
+  "narration": "POS PURCHASE @ BETTYS KITCHEN IKEJA",
+  "category": "food_dining",
+  "chargeType": null
+ },
+ {
+  "narration": "NIP TRF TO JOHN LEVY/GTB/football kit",
+  "category": "transfer_to_person",
+  "chargeType": null
+ },
+ {
+  "narration": "COMMISSION ON NIP TRANSFER",
+  "category": "bank_charges",
+  "chargeType": "transfer_fee"
+ },
+ {
+  "narration": "VAT ON NIP TRANSFER COMMISSION",
+  "category": "bank_charges",
+  "chargeType": "vat"
+ },
+ {
+  "narration": "DATA BUNDLE AIRTEL 20GB MONTHLY",
+  "category": "airtime_data",
+  "chargeType": null
+ },
+ {
+  "narration": "REVERSAL: FAILED NIP TRF TO JOHN LEVY",
+  "category": "refund_reversal",
+  "chargeType": null
+ },
+ {
+  "narration": "ELECTRONIC MONEY TRANSFER LEVY",
+  "category": "bank_charges",
+  "chargeType": "emtl"
+ },
+ {
+  "narration": "NETFLIX.COM SUBSCRIPTION CARD 5399****1182",
+  "category": "subscriptions",
+  "chargeType": null
+ },
+ {
+  "narration": "CARBON LOAN REPAYMENT DD 000231",
+  "category": "loan_repayment",
+  "chargeType": null
+ },
+ {
+  "narration": "TRF FROM BRIGHTPATH MEDIA LTD/INV-0042 design retainer",
+  "category": "business_income",
+  "chargeType": null
+ },
+ {
+  "narration": "ELECTRONIC MONEY TRANSFER LEVY",
+  "category": "bank_charges",
+  "chargeType": "emtl"
+ },
+ {
+  "narration": "UBER *EATS PENDING LAGOS",
+  "category": "food_dining",
+  "chargeType": null
+ },
+ {
+  "narration": "TOTAL ENERGIES LEKKI FUEL POS",
+  "category": "transport",
+  "chargeType": null
+ },
+ {
+  "narration": "TRF TO CHIOMA OKAFOR/UBA/asoebi for wedding",
+  "category": "transfer_to_person",
+  "chargeType": null
+ },
+ {
+  "narration": "COMMISSION ON NIP TRANSFER",
+  "category": "bank_charges",
+  "chargeType": "transfer_fee"
+ },
+ {
+  "narration": "VAT ON NIP TRANSFER COMMISSION",
+  "category": "bank_charges",
+  "chargeType": "vat"
+ },
+ {
+  "narration": "SPORTYBET WALLET FUNDING/PAYSTACK",
+  "category": "betting_gaming",
+  "chargeType": null
+ },
+ {
+  "narration": "TRF TO SELF/TOLU BAKARE/OPAY",
+  "category": "own_account",
+  "chargeType": null
+ },
+ {
+  "narration": "COMMISSION ON NIP TRANSFER",
+  "category": "bank_charges",
+  "chargeType": "transfer_fee"
+ },
+ {
+  "narration": "VAT ON NIP TRANSFER COMMISSION",
+  "category": "bank_charges",
+  "chargeType": "vat"
+ },
+ {
+  "narration": "WEB PURCHASE CHOWDECK/PAYSTACK",
+  "category": "food_dining",
+  "chargeType": null
+ },
+ {
+  "narration": "FAIRMONEY MFB/LOAN DISBURSEMENT",
+  "category": "loan_disbursement",
+  "chargeType": null
+ },
+ {
+  "narration": "EMTL CHARGE ON CREDIT TXN",
+  "category": "bank_charges",
+  "chargeType": "emtl"
+ },
+ {
+  "narration": "PIGGYVEST AUTOSAVE",
+  "category": "savings_investment",
+  "chargeType": null
+ },
+ {
+  "narration": "ATM WDL @ FIRSTBANK ALLEN AVENUE",
+  "category": "cash_withdrawal",
+  "chargeType": null
+ },
+ {
+  "narration": "UBER *TRIP HELP.UBER.COM",
+  "category": "transport",
+  "chargeType": null
+ },
+ {
+  "narration": "DSTV COMPACT RENEWAL/QUICKTELLER",
+  "category": "bills_utilities",
+  "chargeType": null
+ },
+ {
+  "narration": "SPOTIFY P1F9A2 STOCKHOLM",
+  "category": "subscriptions",
+  "chargeType": null
+ },
+ {
+  "narration": "ADEBAYO SMS VENTURES/flyer printing",
+  "category": "vendor_payment",
+  "chargeType": null
+ },
+ {
+  "narration": "COMMISSION ON NIP TRANSFER",
+  "category": "bank_charges",
+  "chargeType": "transfer_fee"
+ },
+ {
+  "narration": "VAT ON NIP TRANSFER COMMISSION",
+  "category": "bank_charges",
+  "chargeType": "vat"
+ },
+ {
+  "narration": "JUMIA ONLINE/PAYSTACK order JM2291",
+  "category": "groceries_shopping",
+  "chargeType": null
+ },
+ {
+  "narration": "BET9JA ONLINE DEPOSIT",
+  "category": "betting_gaming",
+  "chargeType": null
+ },
+ {
+  "narration": "LAWMA WASTE BILL Q3",
+  "category": "bills_utilities",
+  "chargeType": null
+ },
+ {
+  "narration": "ESTATE SERVICE CHARGE Q3 - PARKVIEW RA",
+  "category": "rent_housing",
+  "chargeType": null
+ },
+ {
+  "narration": "COMMISSION ON NIP TRANSFER",
+  "category": "bank_charges",
+  "chargeType": "transfer_fee"
+ },
+ {
+  "narration": "VAT ON NIP TRANSFER COMMISSION",
+  "category": "bank_charges",
+  "chargeType": "vat"
+ },
+ {
+  "narration": "SALARY AUG 2026 NATIVE BRANDS LTD/NIP",
+  "category": "salary_income",
+  "chargeType": null
+ },
+ {
+  "narration": "ELECTRONIC MONEY TRANSFER LEVY",
+  "category": "bank_charges",
+  "chargeType": "emtl"
+ },
+ {
+  "narration": "LIRS PAYE REMITA 3302",
+  "category": "tax_government",
+  "chargeType": null
+ },
+ {
+  "narration": "PAYMENT TO ADEWALE GAS & PLUMBING SERVICES",
+  "category": "vendor_payment",
+  "chargeType": null
+ },
+ {
+  "narration": "COMMISSION ON NIP TRANSFER",
+  "category": "bank_charges",
+  "chargeType": "transfer_fee"
+ },
+ {
+  "narration": "VAT ON NIP TRANSFER COMMISSION",
+  "category": "bank_charges",
+  "chargeType": "vat"
+ },
+ {
+  "narration": "CASH DEPOSIT - IKOYI BRANCH",
+  "category": "cash_deposit",
+  "chargeType": null
+ },
+ {
+  "narration": "EMTL CHARGE ON CREDIT TXN",
+  "category": "bank_charges",
+  "chargeType": "emtl"
+ },
+ {
+  "narration": "INTEREST CREDIT JUL-AUG",
+  "category": "interest",
+  "chargeType": null
+ },
+ {
+  "narration": "SMS ALERT CHARGES AUG 2026",
+  "category": "bank_charges",
+  "chargeType": "sms_alert"
+ },
+ {
+  "narration": "TRANSFER FROM OLUWASEUN ADEBAYO/KUDA/rent",
+  "category": "transfer_from_person",
+  "chargeType": null
+ },
+ {
+  "narration": "ELECTRONIC MONEY TRANSFER LEVY",
+  "category": "bank_charges",
+  "chargeType": "emtl"
+ },
+ {
+  "narration": "IKEDC PREPAID TOKEN MTR 04512345",
+  "category": "bills_utilities",
+  "chargeType": null
+ },
+ {
+  "narration": "MTN VTU AIRTIME 08031234567",
+  "category": "airtime_data",
+  "chargeType": null
+ },
+ {
+  "narration": "TRF TO MRS FOLASADE BAKARE/upkeep",
+  "category": "transfer_to_person",
+  "chargeType": null
+ },
+ {
+  "narration": "COMMISSION ON NIP TRANSFER",
+  "category": "bank_charges",
+  "chargeType": "transfer_fee"
+ },
+ {
+  "narration": "VAT ON NIP TRANSFER COMMISSION",
+  "category": "bank_charges",
+  "chargeType": "vat"
+ },
+ {
+  "narration": "SCHOOL FEES - GREENFIELD ACADEMY/1ST TERM",
+  "category": "health_education",
+  "chargeType": null
+ },
+ {
+  "narration": "COMMISSION ON NIP TRANSFER",
+  "category": "bank_charges",
+  "chargeType": "transfer_fee"
+ },
+ {
+  "narration": "VAT ON NIP TRANSFER COMMISSION",
+  "category": "bank_charges",
+  "chargeType": "vat"
+ },
+ {
+  "narration": "POS PURCHASE @ SHOPRITE LEKKI LA LANG",
+  "category": "groceries_shopping",
+  "chargeType": null
+ },
+ {
+  "narration": "BOLT.EU/O/2608 RIDE LAGOS",
+  "category": "transport",
+  "chargeType": null
+ },
+ {
+  "narration": "RCCG TITHE/FLUTTERWAVE",
+  "category": "giving",
+  "chargeType": null
+ },
+ {
+  "narration": "POS PURCHASE @ BETTYS KITCHEN IKEJA",
+  "category": "food_dining",
+  "chargeType": null
+ },
+ {
+  "narration": "BRIGHTPATH MEDIA/INV-0051",
+  "category": "business_income",
+  "chargeType": null
+ },
+ {
+  "narration": "EMTL CHARGE ON CREDIT TXN",
+  "category": "bank_charges",
+  "chargeType": "emtl"
+ },
+ {
+  "narration": "DATA BUNDLE AIRTEL 20GB MONTHLY",
+  "category": "airtime_data",
+  "chargeType": null
+ },
+ {
+  "narration": "NETFLIX.COM SUBSCRIPTION CARD 5399****1182",
+  "category": "subscriptions",
+  "chargeType": null
+ },
+ {
+  "narration": "NIP FROM KEMI ADEYEMI/rent - flat 2 tenant",
+  "category": "business_income",
+  "chargeType": null
+ },
+ {
+  "narration": "EMTL CHARGE ON CREDIT TXN",
+  "category": "bank_charges",
+  "chargeType": "emtl"
+ },
+ {
+  "narration": "CARBON LOAN REPAYMENT DD 000231",
+  "category": "loan_repayment",
+  "chargeType": null
+ },
+ {
+  "narration": "UBER *EATS PENDING LAGOS",
+  "category": "food_dining",
+  "chargeType": null
+ },
+ {
+  "narration": "DATA ANALYTICS COURSE - UDEMY",
+  "category": "health_education",
+  "chargeType": null
+ },
+ {
+  "narration": "TOTAL ENERGIES LEKKI FUEL POS",
+  "category": "transport",
+  "chargeType": null
+ },
+ {
+  "narration": "SPORTYBET WALLET FUNDING/PAYSTACK",
+  "category": "betting_gaming",
+  "chargeType": null
+ },
+ {
+  "narration": "VAT REFUND FIRS/REMITA",
+  "category": "grant_other_in",
+  "chargeType": null
+ },
+ {
+  "narration": "EMTL CHARGE ON CREDIT TXN",
+  "category": "bank_charges",
+  "chargeType": "emtl"
+ },
+ {
+  "narration": "TRF TO SELF/TOLU BAKARE/OPAY",
+  "category": "own_account",
+  "chargeType": null
+ },
+ {
+  "narration": "COMMISSION ON NIP TRANSFER",
+  "category": "bank_charges",
+  "chargeType": "transfer_fee"
+ },
+ {
+  "narration": "VAT ON NIP TRANSFER COMMISSION",
+  "category": "bank_charges",
+  "chargeType": "vat"
+ },
+ {
+  "narration": "WEB PURCHASE CHOWDECK/PAYSTACK",
+  "category": "food_dining",
+  "chargeType": null
+ },
+ {
+  "narration": "PIGGYVEST AUTOSAVE",
+  "category": "savings_investment",
+  "chargeType": null
+ },
+ {
+  "narration": "PIGGYVEST WITHDRAWAL TO BANK",
+  "category": "investment_return",
+  "chargeType": null
+ },
+ {
+  "narration": "ELECTRONIC MONEY TRANSFER LEVY",
+  "category": "bank_charges",
+  "chargeType": "emtl"
+ },
+ {
+  "narration": "ATM WDL @ FIRSTBANK ALLEN AVENUE",
+  "category": "cash_withdrawal",
+  "chargeType": null
+ },
+ {
+  "narration": "REDDINGTON HOSPITAL CONSULTATION",
+  "category": "health_education",
+  "chargeType": null
+ },
+ {
+  "narration": "UBER *TRIP HELP.UBER.COM",
+  "category": "transport",
+  "chargeType": null
+ },
+ {
+  "narration": "DSTV COMPACT RENEWAL/QUICKTELLER",
+  "category": "bills_utilities",
+  "chargeType": null
+ },
+ {
+  "narration": "SPOTIFY P1F9A2 STOCKHOLM",
+  "category": "subscriptions",
+  "chargeType": null
+ },
+ {
+  "narration": "TRF FROM TOLU BAKARE/OPAY/move back",
+  "category": "own_account_in",
+  "chargeType": null
+ },
+ {
+  "narration": "SALARY ADVANCE REPAYMENT - NATIVE BRANDS",
+  "category": "loan_repayment",
+  "chargeType": null
+ },
+ {
+  "narration": "BET9JA ONLINE DEPOSIT",
+  "category": "betting_gaming",
+  "chargeType": null
+ },
+ {
+  "narration": "POS CASH OUT AGENT MOSES OGBA",
+  "category": "cash_withdrawal",
+  "chargeType": null
+ },
+ {
+  "narration": "SALARY SEP 2026 NATIVE BRANDS LTD/NIP",
+  "category": "salary_income",
+  "chargeType": null
+ },
+ {
+  "narration": "ELECTRONIC MONEY TRANSFER LEVY",
+  "category": "bank_charges",
+  "chargeType": "emtl"
+ },
+ {
+  "narration": "PAYMENT TO ADEWALE GAS & PLUMBING SERVICES",
+  "category": "vendor_payment",
+  "chargeType": null
+ },
+ {
+  "narration": "COMMISSION ON NIP TRANSFER",
+  "category": "bank_charges",
+  "chargeType": "transfer_fee"
+ },
+ {
+  "narration": "VAT ON NIP TRANSFER COMMISSION",
+  "category": "bank_charges",
+  "chargeType": "vat"
+ },
+ {
+  "narration": "SMS ALERT CHARGES SEP 2026",
+  "category": "bank_charges",
+  "chargeType": "sms_alert"
+ },
+ {
+  "narration": "CARD MAINTENANCE FEE Q3",
+  "category": "bank_charges",
+  "chargeType": "maintenance"
+ },
+ {
+  "narration": "VAT ON CARD MAINTENANCE FEE",
+  "category": "bank_charges",
+  "chargeType": "vat"
+ }
+]
