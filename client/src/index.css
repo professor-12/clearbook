@@ -1,0 +1,31 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, monospace;
+  --color-ink: #0a0a0a;
+  --color-panel: #111111;
+  --color-panel-2: #181818;
+  --color-line: rgb(255 255 255 / 0.08);
+  --color-line-strong: rgb(255 255 255 / 0.14);
+  --color-muted: #8a8a8a;
+  --color-faint: #5c5c5c;
+  /* Chart palette: validated categorical order for dark surfaces. UI chrome stays monochrome. */
+  --color-c1: #3987e5;
+  --color-c2: #199e70;
+  --color-c3: #d95926;
+  --color-c4: #c98500;
+  --color-c5: #d55181;
+  --color-c6: #9085e9;
+  --color-warn: #fab219;
+}
+
+html { color-scheme: dark; }
+body { @apply bg-ink text-neutral-100 font-sans antialiased; font-feature-settings: "cv11", "ss01"; }
+.tabular { font-variant-numeric: tabular-nums; }
+.panel { @apply rounded-lg border border-line bg-panel; }
+.label { @apply text-xs font-medium text-muted; }
+.scroll-thin::-webkit-scrollbar { width: 8px; height: 8px; }
+.scroll-thin::-webkit-scrollbar-thumb { background: rgb(255 255 255 / 0.1); border-radius: 8px; }
+.recharts-surface:focus, .recharts-wrapper:focus, .recharts-sector:focus { outline: none; }
+input[type="range"] { accent-color: #fafafa; }
