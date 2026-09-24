@@ -1,5 +1,5 @@
-// Local server: the same app Vercel runs, plus the built UI from public/.
-// (On Vercel, public/ is served by the CDN and express.static is ignored.)
+// Local server: the same app Vercel runs, plus the built UI from client/dist.
+// (On Vercel, client/dist is served as static files and api/index.js runs the app.)
 import express from "express";
 import fs from "node:fs";
 import path from "node:path";
@@ -7,7 +7,7 @@ import { fileURLToPath } from "node:url";
 import app from "../app.js";
 import { hasKey } from "./jev.js";
 
-const PUBLIC = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..", "public");
+const PUBLIC = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..", "client", "dist");
 const PORT = Number(process.env.PORT) || 5174;
 
 if (fs.existsSync(PUBLIC)) {

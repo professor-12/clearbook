@@ -1,4 +1,4 @@
 node_modules/
-/public/
+client/dist/
 .env
 .vercel

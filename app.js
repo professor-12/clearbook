@@ -1,4 +1,4 @@
-// The Express app. Vercel detects this file and runs it as a single function;
+// The Express app. On Vercel, api/index.js exports it as a function;
 // locally, server/index.js imports it, serves the built UI and listens on a port.
 import express from "express";
 import multer from "multer";

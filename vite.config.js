@@ -6,5 +6,5 @@ export default defineConfig({
   root: "client",
   plugins: [react(), tailwindcss()],
   server: { port: 5173, proxy: { "/api": "http://localhost:5174" } },
-  build: { outDir: "../public", emptyOutDir: true, chunkSizeWarningLimit: 1200 },
+  build: { outDir: "dist", emptyOutDir: true, chunkSizeWarningLimit: 1200 },
 });
